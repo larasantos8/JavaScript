@@ -1,3 +1,5 @@
+//  “Querer vencer significa já ter percorrido metade do caminho.”
+
 //          DESAFIO 01
 
 //      Cálculo de IMC 

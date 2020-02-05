@@ -1,3 +1,5 @@
+// “Não basta saber, é preferível saber aplicar. Não é o bastante querer, é preciso saber querer.”
+
 const usuario = {
     nome: 'Carlos',
     idade: 32,
